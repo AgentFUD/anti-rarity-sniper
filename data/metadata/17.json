@@ -1,0 +1,49 @@
+{
+    "name": "Filemon #17",
+    "description": "Schrödinger's cat who's name is Filemon",
+    "image": "https://nft.anothernow.io/filemon-test/images/17.png",
+    "date": "1645561281",
+    "attributes": [
+        {
+            "trait_type": "Background Color",
+            "value": "LightBlue"
+        },
+        {
+            "trait_type": "Background Item",
+            "value": "Long chest of drawers"
+        },
+        {
+            "trait_type": "Color",
+            "value": "Burberry"
+        },
+        {
+            "trait_type": "Ear",
+            "value": "Down"
+        },
+        {
+            "trait_type": "Tail",
+            "value": "Curvy"
+        },
+        {
+            "trait_type": "Eye",
+            "value": "Left Crossed"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Whistle"
+        },
+        {
+            "trait_type": "Moustache",
+            "value": "Zigzag"
+        },
+        {
+            "trait_type": "Tie",
+            "value": "Spotted bow tie"
+        },
+        {
+            "trait_type": "Death",
+            "value": "Tax"
+        }
+    ],
+    "engine": "Agent FUD Art Engine v0.1"
+}

@@ -1,0 +1,49 @@
+{
+    "name": "Filemon #2",
+    "description": "Schrödinger's cat who's name is Filemon",
+    "image": "https://nft.anothernow.io/filemon-test/images/2.png",
+    "date": "1645561281",
+    "attributes": [
+        {
+            "trait_type": "Background Color",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Background Item",
+            "value": "Lamp with floor"
+        },
+        {
+            "trait_type": "Color",
+            "value": "Greenish"
+        },
+        {
+            "trait_type": "Ear",
+            "value": "Down"
+        },
+        {
+            "trait_type": "Tail",
+            "value": "Normal"
+        },
+        {
+            "trait_type": "Eye",
+            "value": "Both crossed"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Smile"
+        },
+        {
+            "trait_type": "Moustache",
+            "value": "Normal"
+        },
+        {
+            "trait_type": "Tie",
+            "value": "Elegant tie"
+        },
+        {
+            "trait_type": "Death",
+            "value": "Cyan"
+        }
+    ],
+    "engine": "Agent FUD Art Engine v0.1"
+}
