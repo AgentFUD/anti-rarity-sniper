@@ -1,48 +1,48 @@
 {
-    "name": "Filemon #13",
-    "description": "Schrödinger's cat who's name is Filemon",
-    "image": "https://nft.anothernow.io/filemon-test/images/13.png",
-    "date": "1645561281",
+    "name": "EVO NFT #13",
+    "description": "In God we trust, watches we verify.",
+    "image": "https://nft.anothernow.io/evonft-test/images/13.png",
+    "date": "1646137530",
     "attributes": [
         {
-            "trait_type": "Background Color",
-            "value": "Purple"
+            "trait_type": "Background",
+            "value": "evolvens_nft_background_002"
         },
         {
-            "trait_type": "Background Item",
-            "value": "Alarm clock"
+            "trait_type": "Background Blur",
+            "value": "Background Blur"
         },
         {
-            "trait_type": "Color",
-            "value": "Spotted"
+            "trait_type": "Strap",
+            "value": "Black Leather White Stitch"
         },
         {
-            "trait_type": "Ear",
-            "value": "Normal"
+            "trait_type": "Case",
+            "value": "evolvens_nft_case_black"
         },
         {
-            "trait_type": "Tail",
-            "value": "Scared"
+            "trait_type": "Crown",
+            "value": "evolvens_nft_crown_black"
         },
         {
-            "trait_type": "Eye",
-            "value": "Cry"
+            "trait_type": "Bezel",
+            "value": "evolvens_nft_bezel_minimal_black"
         },
         {
-            "trait_type": "Mouth",
-            "value": "Grin"
+            "trait_type": "Dial",
+            "value": "evolvens_nft_open_black"
         },
         {
-            "trait_type": "Moustache",
-            "value": "Normal"
+            "trait_type": "Dial Ring",
+            "value": "Black Full Marker"
         },
         {
-            "trait_type": "Tie",
-            "value": "Camea"
+            "trait_type": "Hand",
+            "value": "hand_black"
         },
         {
-            "trait_type": "Death",
-            "value": "Knife to head"
+            "trait_type": "Sapphire",
+            "value": "Sapphire"
         }
     ],
     "engine": "Agent FUD Art Engine v0.1"

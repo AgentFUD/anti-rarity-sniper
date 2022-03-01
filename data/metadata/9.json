@@ -1,48 +1,48 @@
 {
-    "name": "Filemon #9",
-    "description": "Schrödinger's cat who's name is Filemon",
-    "image": "https://nft.anothernow.io/filemon-test/images/9.png",
-    "date": "1645561281",
+    "name": "EVO NFT #9",
+    "description": "In God we trust, watches we verify.",
+    "image": "https://nft.anothernow.io/evonft-test/images/9.png",
+    "date": "1646137530",
     "attributes": [
         {
-            "trait_type": "Background Color",
-            "value": "Purple"
+            "trait_type": "Background",
+            "value": "evolvens_nft_background_002"
         },
         {
-            "trait_type": "Background Item",
-            "value": "Chest of drawers with floor"
+            "trait_type": "Background Blur",
+            "value": "Background Blur"
         },
         {
-            "trait_type": "Color",
-            "value": "Yellowish"
+            "trait_type": "Strap",
+            "value": "Black Leather White Stitch"
         },
         {
-            "trait_type": "Ear",
-            "value": "Normal"
+            "trait_type": "Case",
+            "value": "evolvens_nft_case_black"
         },
         {
-            "trait_type": "Tail",
-            "value": "Scared"
+            "trait_type": "Crown",
+            "value": "evolvens_nft_crown_silver"
         },
         {
-            "trait_type": "Eye",
-            "value": "Both crossed"
+            "trait_type": "Bezel",
+            "value": "evolvens_nft_bezel_silver-02"
         },
         {
-            "trait_type": "Mouth",
-            "value": "Scream"
+            "trait_type": "Dial",
+            "value": "evolvens_nft_abstract_blue"
         },
         {
-            "trait_type": "Moustache",
-            "value": "Balding"
+            "trait_type": "Dial Ring",
+            "value": "Black Full Marker"
         },
         {
-            "trait_type": "Tie",
-            "value": "Pink bow tie"
+            "trait_type": "Hand",
+            "value": "hand_silver"
         },
         {
-            "trait_type": "Death",
-            "value": "Snake"
+            "trait_type": "Sapphire",
+            "value": "Sapphire"
         }
     ],
     "engine": "Agent FUD Art Engine v0.1"
